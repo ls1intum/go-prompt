@@ -5,7 +5,7 @@ go 1.21.6
 require (
 	github.com/caarlos0/env/v10 v10.0.0
 	github.com/google/uuid v1.6.0
-	github.com/jackc/pgx/v5 v5.5.2
+	github.com/jackc/pgx/v5 v5.5.3
 	github.com/joho/godotenv v1.5.1
 	github.com/sirupsen/logrus v1.9.3
 )
